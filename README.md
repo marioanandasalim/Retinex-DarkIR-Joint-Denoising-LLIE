@@ -1,6 +1,6 @@
 # LLIE Multimedia Project
 
-## Layout
+## Project Layout
 
 ```
 LLIE_Multimedia/
